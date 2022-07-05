@@ -1,0 +1,33 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.background-image {
+    background-image: url(images/donation9.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 65px;
+}
+
+p {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.button-item {
+    font-weight: 700;
+    text-decoration: none;
+    background-color: tomato;
+    border-radius: 15px;
+    padding: 15px 25px;
+}
+
+.frontpage {
+    color: white;
+    text-align: center;
+    padding: 10% 25%;
+}
