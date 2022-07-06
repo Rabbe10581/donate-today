@@ -2,6 +2,13 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+.spancolor {
+    color: rgb(97, 246, 124);
+}
+
+#cover-script {
+    color: black;
+}
 
 .background-image {
     background-image: url(images/donation9.jpg);
@@ -156,4 +163,24 @@ p {
     color: pink;
     background-color: black;
     text-align: center;
+}
+
+.flex-containner-two {
+    display: flex;
+}
+
+.depend-donation {
+    width: 50%;
+}
+
+.depend-donation img {
+    width: 90%;
+}
+
+#text {
+    margin: 10%;
+}
+
+#image {
+    padding: 10% 0%;
 }
