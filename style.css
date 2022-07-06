@@ -18,6 +18,10 @@ h2 {
     font-size: 40px;
 }
 
+h3 {
+    font-size: 30px;
+}
+
 p {
     font-size: 20px;
     font-weight: 400;
@@ -52,6 +56,8 @@ p {
 
 #taka-color {
     background-color: bisque;
+    border-style: solid;
+    border-color: tomato;
 }
 
 .flex-containner {
