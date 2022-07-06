@@ -42,6 +42,8 @@ p {
 .second-set {
     text-align: center;
     padding: 15% 25%;
+    position: relative;
+    bottom: -50px;
 }
 
 .amount {
@@ -63,4 +65,15 @@ p {
     margin: 30px;
     text-align: center;
     line-height: 70px;
+}
+
+.flex-move {
+    padding: 0% 15%;
+    position: relative;
+    top: -140px;
+}
+
+.text-button {
+    color: black;
+    text-align: center;
 }
